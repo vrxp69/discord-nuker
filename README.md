@@ -1,6 +1,6 @@
-# NukeBOT
+# discord-nuker
 
-<h3>🔥 Only for educational purposes, using it in public servers goes against the Discord ToS.</h3>
+<h3>👀 Only for educational purposes, using it in public servers goes against the Discord ToS.</h3>
 
 ## Requirements of the bot
 

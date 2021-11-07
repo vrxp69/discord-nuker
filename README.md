@@ -16,7 +16,7 @@
  4. Open a CMD.
  5. CD into the project code.
  6. Run `node index.js`
- 7. Run !nuke in a <b>Test Server</b>!
+ 7. Run !fun in a <b>Test Server</b>!
 
 ## Invite the bot
 

@@ -18,10 +18,6 @@
  6. Run `node index.js`
  7. Run !fun in a <b>Test Server</b>!
 
-## Invite the bot
-
-https://k3bot.xyz/funbot
-
 ## Contributing
 
 <h3>You can star the project, that's all!</h3>
